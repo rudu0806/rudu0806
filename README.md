@@ -10,4 +10,8 @@
 <p align="left">
 <a href="https://twitter.com/rudu0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudu0806" height="30" width="40" /></a>
 </p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
