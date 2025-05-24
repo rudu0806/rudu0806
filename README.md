@@ -20,5 +20,9 @@
 
 - 📧 Email: upadhyayrudra792@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rudra-upadhyay-251746338?)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rur.rur&left_color=lightslategrey&right_color=blue&left_text=Rudu0806"  />
+</div>
 
+###
 
