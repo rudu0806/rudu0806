@@ -21,15 +21,7 @@
 - 📧 Email: upadhyayrudra792@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rudra-upadhyay-251746338?)
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudra-upadhyay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-upadhyay&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 
 
