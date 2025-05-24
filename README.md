@@ -4,7 +4,11 @@
 
 <br/>
 <h3 align="center">A passionate frontend developer from India</h3>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rur.rur&left_color=lightslategrey&right_color=blue&left_text=Rudu0806"  />
+</div>
 
+###
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" > 
 <p align="left"> <img src="https://komarev.com/ghpvc/?
@@ -20,10 +24,3 @@
 
 - 📧 Email: upadhyayrudra792@gmail.com
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rudra-upadhyay-251746338?)
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rur.rur&left_color=lightslategrey&right_color=blue&left_text=Rudu0806"  />
-</div>
-
-###
-###
-
