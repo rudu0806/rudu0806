@@ -10,6 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?
 <p align="left">
 <a href="https://twitter.com/rudu0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudu0806" height="30" width="40" /></a>
+  <a href="mailto:upadhyayhri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 
