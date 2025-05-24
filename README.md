@@ -14,6 +14,11 @@
     <img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+## Let's Connect
+
+- 📧 Email: upadhyayrudra792@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rudra-upadhyay-251746338?)
+  
 
 
 
