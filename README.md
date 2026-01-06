@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Rudra+Upadhyay;Architect+of+Digital+Experiences;Web+Development+Professional;Turning+Concepts+into+Gold" alt="Royal Typing SVG" />
-  
+
   <br>
   
   <a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/" target="_blank">
