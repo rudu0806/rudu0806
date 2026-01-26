@@ -71,7 +71,7 @@
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=rudu0806&theme=dracula&hide_border=true&background=transparent" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudu0806&theme=dracula&hide_border=true" alt="streak graph" />
 </div>
 
 <br/>
