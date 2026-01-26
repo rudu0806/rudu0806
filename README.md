@@ -61,17 +61,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rudu0806&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rudu0806&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=transparent" height="180" alt="stats graph" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudu0806&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudu0806&layout=compact&theme=dracula&hide_border=true&bg_color=transparent" height="180" alt="languages graph" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudu0806&theme=dracula&hide_border=true&background=00000000" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=rudu0806&theme=dracula&hide_border=true&background=transparent" alt="streak graph" />
 </div>
 
 <br/>
