@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/GitHub-%2358a6ff.svg?style=for-the-badge&logo=github&logoColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/rudraupadhyay" target="_blank">
+<a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/rudraupadhyay" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://x.com/Rudu0806" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
 &nbsp;
-<a href="mailto:rudra@example.com" target="_blank">
+<a href="mailto:upadhyayrudra792@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -150,6 +150,26 @@ const rudra: Developer = {
 | **Database** | MongoDB · PostgreSQL · Redis |
 | **DevOps** | Docker · GitHub Actions · Vercel · Linux |
 | **Tools** | Git · Figma · VS Code · Postman |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   LANGUAGE PROFICIENCY                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Language Proficiency
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS / Tailwind](https://img.shields.io/badge/CSS%20%2F%20Tailwind-85%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-75%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-55%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -313,13 +333,24 @@ const currentFocus = {
 
 <br/>
 
+**Sprint Status Board:**
+
+| Status | Task | Stack |
+|:---:|:---|:---|
+| 🟢 **Active** | SaaS Analytics Dashboard | Next.js 14, Server Actions, Tailwind |
+| 🔵 **Learning** | Cloud Architecture Deep Dive | AWS, Terraform, CDK |
+| 🟡 **Planned** | Open Source Contributions | React ecosystem, Dev tools |
+| ⚪ **Backlog** | Personal Dev Blog | Astro, MDX, Vercel |
+
+<br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FUTURE GOALS                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🎯 Future Goals
+## 🎯 Future Goals & 2025 Roadmap
 
 <table>
 <tr>
@@ -352,6 +383,16 @@ const currentFocus = {
 </td>
 </tr>
 </table>
+
+<br/>
+
+**2025 Goal Progress:**
+
+![SaaS Dashboard](https://img.shields.io/badge/SaaS%20Dashboard%20v1-60%25%20done-58a6ff?style=flat-square&logo=vercel&logoColor=white)
+![AWS Cert](https://img.shields.io/badge/AWS%20Cert%20Prep-35%25%20done-ffa657?style=flat-square&logo=amazonaws&logoColor=white)
+![Contributions](https://img.shields.io/badge/100%20Contributions-47%25%20done-3fb950?style=flat-square&logo=github&logoColor=white)
+![OSS Stars](https://img.shields.io/badge/OSS%20500%20Stars-22%25%20done-bc8cff?style=flat-square&logo=github&logoColor=white)
+![Dev Articles](https://img.shields.io/badge/12%20Dev%20Articles-33%25%20done-f78166?style=flat-square&logo=hashnode&logoColor=white)
 
 <br/>
 
@@ -429,16 +470,16 @@ I'm always open to interesting conversations and opportunities. 🚀
 
 <br/>
 
-<a href="https://linkedin.com/in/rudraupadhyay">
+<a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:rudra@example.com">
+<a href="mailto:upadhyayrudra792@gmail.com">
   <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/rudraupadhyay">
-  <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://x.com/Rudu0806">
+  <img src="https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br/><br/>
