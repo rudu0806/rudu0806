@@ -1,455 +1,224 @@
 <div align="center">
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      HERO BANNER                            -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,30:1e1b4b,70:1e3a5f,100:0a0a0f&height=280&section=header&text=Rudra%20Upadhyay&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20Craftsman%20%E2%80%A2%20India&descSize=17&descColor=94a3b8&descAlignY=62&stroke=2563ff&strokeWidth=0" width="100%"/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                   ANIMATED TYPING                           -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Rudra%20Upadhyay&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Product%20Thinker&descSize=20&descAlignY=65&animation=twinkling&stroke=8B5CF6&strokeWidth=1" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&random=false&width=640&height=50&lines=Building+fast%2C+beautiful+web+experiences+%E2%9C%A8;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript+%F0%9F%9A%80;Open+to+exciting+opportunities+%F0%9F%91%8B;Code+%E2%86%92+Create+%E2%86%92+Conquer+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=I+don't+just+write+code+—+I+ship+products.;Full+Stack+%7C+React+%7C+Node.js+%7C+TypeScript;Building+SaaS+that+scales+from+0+→+∞;Clean+UI.+Blazing+Performance.+Real+Impact.;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  STATUS + SOCIAL BADGES                     -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Available-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0a0a0f)
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="mailto:rudra@example.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
-<a href="https://x.com/Rudu0806" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<a href="https://linkedin.com/in/rudraupadhyay">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
-<a href="mailto:upadhyayrudra792@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://portfolio.rudra.dev">
+  <img src="https://img.shields.io/badge/Portfolio-%238B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29"/>
 </a>
 &nbsp;
-<a href="https://github.com/rudraupadhyay" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rudraupadhyay&style=for-the-badge&color=2563ff&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/rudraupadhyay?style=for-the-badge&color=7c3aed&label=FOLLOWERS)
+<img src="https://komarev.com/ghpvc/?username=rudraupadhyay&style=for-the-badge&color=8B5CF6&labelColor=0f0c29&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br/>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    INTRODUCTION                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:1a1a2e&height=3&section=header" width="100%"/>
 
-```
-// hello.world
-```
-
-</div>
-
-> **"Building fast, beautiful, and scalable web applications — from pixel-perfect React UIs to bulletproof Node.js APIs."**
-
-I'm **Rudra Upadhyay**, a passionate Full Stack Developer who thrives at the intersection of clean design and powerful engineering. I turn complex ideas into elegant, high-performance digital products that users remember.
-
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-**What drives me:**
-- 🔥 Turning ideas into reality with code
-- 🎨 Crafting beautiful UI/UX experiences
-- ⚡ Obsessing over web performance
-- 🌍 Building things that actually matter
-- 📖 Always learning, always growing
-
-</td>
-<td width="50%">
-
-**Currently:**
-- 🔭 Building production-ready full stack apps
-- 🌱 Deep-diving into **Next.js 14** + Cloud Architecture
-- 🤝 Open to collaborate on open source
-- 🎯 2025 Goal: Ship 3 SaaS products
-- 📍 Based in India 🇮🇳
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                     ABOUT ME CODE                          -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🧠 About Me
+### `> whoami`
 
 ```typescript
 const rudra: Developer = {
-  name        : "Rudra Upadhyay",
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  focus       : "High-quality web experiences",
-  passions    : ["Clean Code", "UX Design", "Performance", "Open Source"],
-  currentGoal : "Master Next.js internals & Cloud Architecture",
-  contact     : {
-    linkedin  : "linkedin.com/in/rudra-upadhyay-251746338",
-    twitter   : "x.com/Rudu0806",
-    email     : "upadhyayrudra792@gmail.com",
-  },
-  funFact     : "I debug with console.log and I'm not ashamed 😅",
-  available   : true,  // open to exciting opportunities!
+  name     : "Rudra Upadhyay",
+  role     : "Full Stack Developer",
+  base     : "India 🇮🇳",
+  timezone : "IST — active until 3AM 🌙",
+
+  obsessions: [
+    "Clean, purposeful UI",
+    "APIs that feel like magic",
+    "SaaS products that scale",
+    "Performance at every layer",
+  ],
+
+  currentMode : "Building in public",
+  availability: "Open to remote roles 🚀",
+  superpower  : "Turning ideas into shipped products",
 };
 ```
 
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      TECH STACK                            -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### ⚡ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🗄️ Databases & DevOps
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,docker,redis,nginx,linux&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🎨 Styling & Tools
-[![My Skills](https://skillicons.dev/icons?i=tailwind,figma,git,github,vscode,vercel&theme=dark&perline=6)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🎯 Category | 🔧 Technologies |
-|:---:|:---|
-| **Frontend** | React · Next.js 14 · TypeScript · JavaScript · Tailwind CSS · Framer Motion |
-| **Backend** | Node.js · Express · REST APIs · GraphQL · Socket.io |
-| **Database** | MongoDB · PostgreSQL · Redis |
-| **DevOps** | Docker · GitHub Actions · Vercel · Nginx · Linux |
-| **Tools** | Git · Figma · VS Code · Postman · DM Mono |
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  LANGUAGE PROFICIENCY                       -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 📈 Language Proficiency
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
-&nbsp;
-![CSS/Tailwind](https://img.shields.io/badge/CSS%20%2F%20Tailwind-85%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL-75%25-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB STATS                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudraupadhyay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&border_radius=12&rank_icon=github" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rudraupadhyay&theme=github-dark-blue&hide_border=true&background=0a0a0f&stroke=2563ff&ring=60a5fa&fire=f472b6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=94a3b8&border_radius=12" width="49%" alt="Streak Stats"/>
-
-</div>
-
-<div align="center"><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraupadhyay&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=60a5fa&text_color=cbd5e1&border_radius=12&langs_count=8" width="42%" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CONTRIBUTION GRAPH                         -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🌿 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraupadhyay&theme=github-compact&bg_color=0a0a0f&color=60a5fa&line=2563ff&point=f472b6&area=true&area_color=2563ff&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                      TROPHIES                               -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rudraupadhyay&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    FEATURED PROJECTS                        -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [NexaStore](https://github.com/rudraupadhyay/nexastore)
-**Full-Stack E-Commerce Platform**
-
-Blazing-fast ecommerce with real-time inventory, Stripe payments & a stunning storefront experience.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-⭐ SSR · Auth · Cart · Admin Dashboard · Analytics
-
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### 💬 [SyncChat](https://github.com/rudraupadhyay/syncchat)
-**Real-Time Messaging App**
+### At a Glance
 
-E2E encrypted real-time chat with rooms, direct messaging & file sharing — built for speed & privacy.
+<br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+🏗️ &nbsp;**4 production-grade projects** shipped
 
-⭐ WebSockets · E2E Encryption · Rooms · File Sharing
+⚡ &nbsp;**Full-stack** — from database to deployment
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🎯 &nbsp;**Product-minded** — I think in user journeys
 
-### 📋 [TaskFlow](https://github.com/rudraupadhyay/taskflow)
-**Project Management Tool**
+🧠 &nbsp;**Self-driven** — no hand-holding needed
 
-Notion/Linear-inspired productivity tool with Kanban boards, sprint planning & real-time collab.
+🌍 &nbsp;**Remote-ready** — async-first mindset
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+🔥 &nbsp;**Night owl** — best PRs land after midnight
 
-⭐ Drag & Drop · Real-time Collab · Sprint Boards
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [DevBot](https://github.com/rudraupadhyay/devbot)
-**AI Developer Assistant**
-
-CLI + web tool that answers code questions, generates boilerplate & reviews PRs — powered by LLMs.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-⭐ CLI Tool · AI Code Review · Snippet Generator
+> *"I don't write code for computers. I write products for humans."*
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   VALUE PROPOSITION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💼 Why You Should Work With Me
+
+*Most developers build features. I build outcomes.*
+
 </div>
 
 <br/>
 
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CURRENT SPRINT                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## ⚡ Current Sprint
-
-```javascript
-// Q2 2025 — What I'm building right now
-const currentSprint = {
-  building  : "SaaS Analytics Dashboard — Next.js 14 + Server Actions",
-  learning  : ["Next.js App Router internals", "AWS Architecture", "Redis patterns"],
-  reading   : "Designing Data-Intensive Applications — Martin Kleppmann",
-  exploring : "Edge computing & Serverless at scale",
-};
-```
-
-| Status | Task | Stack |
-|:---:|:---|:---|
-| 🟢 **Active** | SaaS Analytics Dashboard | Next.js 14, Server Actions, Tailwind |
-| 🔵 **Learning** | Cloud Architecture Deep Dive | AWS, Terraform, CDK |
-| 🟡 **Planned** | Open Source Contributions | React ecosystem, Dev tools |
-| ⚪ **Backlog** | Personal Dev Blog | Astro, MDX, Vercel |
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    FUTURE GOALS                             -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🎯 Future Goals & 2025 Roadmap
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🛠️ Technical
-- AWS Solutions Architect certified
-- Contribute to React / Next.js core
-- Build micro-SaaS 0 → $1K MRR
-- Master system design at scale
+**🎨 &nbsp;Design × Code**
+
+I care about *how it feels*, not just *how it works*. Every interface I build is intentional — spacing, hierarchy, motion.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🌍 Impact
-- Open source with 1K+ GitHub stars
-- Dev articles read by 10K+ devs
-- Mentor junior developers
-- Speak at a tech conference
+**⚡ &nbsp;Speed to Ship**
+
+I move fast without breaking things. From idea to deployed product — I own the full cycle, no gaps.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🚀 Vision
-- Lead engineering at a startup
-- Build product used by millions
-- Create a dev community
-- Go indie and build in public
+**📈 &nbsp;Scalability First**
+
+I architect systems that grow. Redis caching, optimized queries, containerized deployments — built in, not bolted on.
 
 </td>
 </tr>
 </table>
 
-**2025 Progress:**
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-![SaaS Dashboard](https://img.shields.io/badge/SaaS%20Dashboard-60%25-2563ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0f)
-&nbsp;
-![AWS Cert](https://img.shields.io/badge/AWS%20Cert%20Prep-35%25-f59e0b?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0a0a0f)
-&nbsp;
-![Contributions](https://img.shields.io/badge/100%20Contributions-47%25-22c55e?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f)
-&nbsp;
-![OSS Stars](https://img.shields.io/badge/OSS%20500%20Stars-22%25-a78bfa?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f)
-&nbsp;
-![Articles](https://img.shields.io/badge/12%20Articles-33%25-f472b6?style=flat-square&logo=hashnode&logoColor=white&labelColor=0a0a0f)
+**🔗 &nbsp;Full Ownership**
 
-<br/>
+Backend APIs, frontend UX, database design, CI/CD — I handle it. One hire, full coverage.
 
----
+</td>
+<td width="33%" align="center" valign="top">
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                     FUN FACTS                               -->
-<!-- ████████████████████████████████████████████████████████████ -->
+**🧩 &nbsp;Systems Thinker**
 
-## 🎮 Fun Facts
+I see the product holistically — from user flows to data models to deployment pipelines.
 
-```json
-{
-  "⚡ Superpower"  : "Turning coffee into working software",
-  "🕐 Peak Hours" : "11 PM → 3 AM  (night owl developer mode)",
-  "🐛 Debugging"  : "console.log everything until it breaks differently",
-  "🎵 Music"      : "Lo-fi beats / Dark synthwave on repeat",
-  "🍕 Fuel"       : "Pizza + Cold brew = production-ready code",
-  "📱 Hot Take"   : "The best code is the code you delete",
-  "🎯 Secret"     : "I estimate timelines, then multiply by 3",
-  "🌙 Ritual"     : "One more feature before bed... 3 hours later"
-}
-```
+</td>
+<td width="33%" align="center" valign="top">
+
+**🤝 &nbsp;Remote-Native**
+
+Clear communication, async collaboration, proactive updates. I thrive in distributed teams.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  PHILOSOPHY / QUOTE                         -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 💭 Developer Philosophy
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "First, solve the problem. Then, write the code."              ║
-║                                            — John Johnson       ║
-║                                                                  ║
-║  "Any fool can write code that a computer can understand.       ║
-║   Good programmers write code that humans can understand."      ║
-║                                            — Martin Fowler      ║
-║                                                                  ║
-║  My motto: Write code as if the next person maintaining it      ║
-║  is a sleep-deprived version of you at 3 AM. ☕                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+## ⚡ Tech Stack
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**Data**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+<div align="center">
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -457,48 +226,402 @@ const currentSprint = {
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  CONNECT SECTION                            -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🤝 Let's Connect & Build Together
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Got an exciting project? Want to collaborate? Just wanna talk tech?** 🚀
+## 🧪 Featured Projects
 
-I'm always open to interesting conversations and new opportunities.
+*Four products. Four problems solved. Real code. Real users.*
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- PROJECT 1 -->
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+
+### 🛒 &nbsp;NexaStore &nbsp;&nbsp; `v2.0 — Live`
+
+> *A full-stack e-commerce platform built for speed and conversion.*
+
+**What makes it different:**
+- 🔐 Secure Stripe checkout with webhook-based order sync
+- ⚡ Next.js 14 App Router with ISR for sub-100ms page loads
+- 🧠 MongoDB Atlas with aggregation pipelines for analytics
+- 📦 Admin dashboard with inventory + revenue insights
+
+**Stack:** `Next.js 14` `MongoDB` `Stripe` `Tailwind CSS` `Vercel`
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+[![NexaStore](https://img.shields.io/badge/🛒%20NexaStore-View%20Repo-8B5CF6?style=for-the-badge&labelColor=0f0c29)](https://github.com/rudraupadhyay/nexastore)
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-%23FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://nexastore.vercel.app)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-blueviolet?style=flat-square&logo=stripe&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="middle">
+
+[![SyncChat](https://img.shields.io/badge/💬%20SyncChat-View%20Repo-06B6D4?style=for-the-badge&labelColor=0f0c29)](https://github.com/rudraupadhyay/syncchat)
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-%2306B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://syncchat.vercel.app)
+
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socketdotio)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="65%" valign="middle">
+
+### 💬 &nbsp;SyncChat &nbsp;&nbsp; `Real-Time`
+
+> *A Slack-inspired chat app with zero-latency messaging.*
+
+**What makes it different:**
+- 🔄 WebSocket rooms with presence indicators (typing, online)
+- 🔑 JWT auth with refresh token rotation
+- 📁 File sharing with progress streaming
+- 🌐 Horizontally scalable via Redis pub/sub adapter
+
+**Stack:** `React` `Node.js` `Socket.io` `Redis` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3 -->
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+
+### 📋 &nbsp;TaskFlow &nbsp;&nbsp; `SaaS-Ready`
+
+> *A Notion-meets-Linear project management tool for dev teams.*
+
+**What makes it different:**
+- 🧩 Drag-and-drop Kanban with optimistic UI updates
+- 🔗 GraphQL API with real-time subscriptions
+- 👥 Role-based access control (RBAC) system
+- 📊 Sprint analytics and burndown tracking
+
+**Stack:** `TypeScript` `React` `Express` `GraphQL` `PostgreSQL`
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+[![TaskFlow](https://img.shields.io/badge/📋%20TaskFlow-View%20Repo-22C55E?style=for-the-badge&labelColor=0f0c29)](https://github.com/rudraupadhyay/taskflow)
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-%2322C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://taskflow.vercel.app)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 4 -->
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="middle">
+
+[![DevBot](https://img.shields.io/badge/🤖%20DevBot-View%20Repo-F59E0B?style=for-the-badge&labelColor=0f0c29)](https://github.com/rudraupadhyay/devbot)
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-%23F59E0B?style=for-the-badge&logo=vercel&logoColor=white)](https://devbot.vercel.app)
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)
+
+</td>
+<td width="65%" valign="middle">
+
+### 🤖 &nbsp;DevBot &nbsp;&nbsp; `AI-Powered`
+
+> *An AI developer assistant that actually understands code context.*
+
+**What makes it different:**
+- 🧠 OpenAI GPT-4o with streaming responses
+- 📂 Codebase-aware via file ingestion + vector search
+- 🔧 Slash commands: `/explain`, `/refactor`, `/debug`, `/docs`
+- 💾 Conversation memory with session persistence
+
+**Stack:** `Node.js` `OpenAI API` `Pinecone` `Express` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudraupadhyay&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6"/>
 &nbsp;
-<a href="mailto:upadhyayrudra792@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraupadhyay&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=8B5CF6&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rudraupadhyay&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=8B5CF6&ring=8B5CF6&fire=FF6B35&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=c9d1d9" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraupadhyay&bg_color=0f0c29&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true&area=true&area_color=8B5CF6" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CURRENT FOCUS / NOW                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎯 Right Now — Q1 2026
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔨 Currently Building**
+
+```
+▸ A SaaS micro-tool for developer productivity
+▸ Exploring AWS Lambda + edge functions
+▸ Deepening TypeScript generics mastery
+▸ Contributing to 2 open-source projects
+```
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Currently Learning**
+
+```
+▸ Cloud Architecture (AWS Solutions Architect)
+▸ Kubernetes fundamentals
+▸ System Design for scale
+▸ LLM integration patterns in production
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DEVELOPER PHILOSOPHY                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🧠 Developer Philosophy
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Ship it. Then make it perfect."                          │
+│                                                             │
+│   Code is communication. Messy code is dishonesty.         │
+│   Performance is a feature. Slowness is a bug.             │
+│   The best UI is the one users don't notice.               │
+│   Done > Perfect. But done well > just done.               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**Principle 1**
+
+*Solve the right problem before solving it right*
+
+</td>
+<td width="25%" align="center">
+
+**Principle 2**
+
+*Every millisecond saved is UX gained*
+
+</td>
+<td width="25%" align="center">
+
+**Principle 3**
+
+*Readable code is maintainable code*
+
+</td>
+<td width="25%" align="center">
+
+**Principle 4**
+
+*Users don't care about your stack. They care about the result.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GROWTH ROADMAP 2026                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 Vision — 2026 Roadmap
+
+</div>
+
+<br/>
+
+```
+RUDRA'S 2026 ROADMAP
+
+  Q1  ──────────────────────────────────────────────────────────
+  │   ✅  Ship 2 SaaS MVPs publicly
+  │   ✅  Complete AWS Solutions Architect certification
+  │   🔨  Land first high-paying remote role
+  │
+  Q2  ──────────────────────────────────────────────────────────
+  │   ⬜  Master Kubernetes + container orchestration
+  │   ⬜  Build a $1K MRR micro-SaaS
+  │   ⬜  Launch personal brand content (Dev blog + LinkedIn)
+  │
+  Q3  ──────────────────────────────────────────────────────────
+  │   ⬜  Lead architecture on a production system at scale
+  │   ⬜  Contribute meaningfully to 1 major OSS project
+  │   ⬜  Mentor junior developers
+  │
+  Q4  ──────────────────────────────────────────────────────────
+      ⬜  Senior Full Stack / Platform Engineer role
+      ⬜  $5K+ MRR SaaS product
+      ⬜  Build in public — 1,000+ devs following along
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CALL TO ACTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:302b63&height=2&section=header" width="80%"/>
+
+<br/>
+
+## 🤝 Let's Build Something Exceptional
+
+<br/>
+
+**If you're building a product that needs a developer who:**
+
+✦ &nbsp;Ships full-stack features end-to-end&nbsp; ✦ &nbsp;Obsesses over both UX and performance&nbsp; ✦ &nbsp;Communicates clearly and works autonomously
+
+<br/>
+
+**→ You just found your hire.**
+
+<br/>
+
+<a href="mailto:rudra@example.com">
+  <img src="https://img.shields.io/badge/📬_Send%20me%20an%20email-8B5CF6?style=for-the-badge&labelColor=0f0c29&logoColor=white" height="40"/>
 </a>
-&nbsp;
-<a href="https://x.com/Rudu0806">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rudraupadhyay">
+  <img src="https://img.shields.io/badge/💼_Connect%20on%20LinkedIn-0077B5?style=for-the-badge&labelColor=0f0c29&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio.rudra.dev">
+  <img src="https://img.shields.io/badge/🌐_View%20Portfolio-FF6B35?style=for-the-badge&labelColor=0f0c29&logoColor=white" height="40"/>
 </a>
 
 <br/><br/>
 
+*Response time: usually within 24 hours &nbsp;|&nbsp; Timezone: IST (UTC+5:30)*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Let's%20ship%20something%20great.&fontSize=18&fontColor=8B5CF6&fontAlignY=70&animation=twinkling" width="100%"/>
+
 </div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    FOOTER BANNER                            -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563ff,50:7c3aed,100:0a0a0f&height=130&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&fontSize=15&fontColor=e2e8f0&fontAlignY=65&animation=twinkling" width="100%"/>
+<sub>Crafted with intention · Pushed past midnight · Deployed with pride</sub>
 
 <br/>
 
-*Crafted with* ❤️ *by* **Rudra Upadhyay** &nbsp;·&nbsp; *Full Stack Developer* &nbsp;·&nbsp; *2025*
+![](https://hit.yhype.me/github/profile?user_id=rudraupadhyay)
 
 </div>
