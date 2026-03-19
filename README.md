@@ -498,6 +498,6 @@ I'm always open to interesting conversations and opportunities. 🚀
 
 <br/>
 
-*Crafted with* ❤️ *by* **Rudra Upadhyay** • *Last updated: 2025*
+*Crafted with* ❤️ *by* **Rudra Upadhyay** • *Last updated: 2026*
 
 </div>
