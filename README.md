@@ -1,43 +1,63 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-<!-- ==================== ACHIEVEMENTS ==================== -->
-### 🏆 Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     HERO BANNER                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1f2e,100:0d1117&height=220&section=header&text=Rudra%20Upadhyay&fontSize=68&fontColor=58a6ff&fontAlignY=55&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Web%20Craftsman%20%7C%20Digital%20Architect&descSize=18&descColor=8b949e&descAlignY=75&stroke=58a6ff&strokeWidth=1" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                   ANIMATED TYPING SVG                         -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    SOCIAL BADGES                              -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/rudraupadhyay" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2358a6ff.svg?style=for-the-badge&logo=github&logoColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rudra-upadhyay-251746338/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/Rudu0806" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+&nbsp;
+<a href="mailto:upadhyayrudra792@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ==================== PHILOSOPHY ==================== -->
-### 💭 Development Philosophy
+<!--                    INTRODUCTION                               -->
 
-<div align="center">
-
-> *"Code is read far more often than it's written — optimize for clarity, not cleverness."*
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-<!-- ==================== CONNECT ==================== -->
-### 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Follow-7B2FF7?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Say%20Hi-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+< Hello, World! /> 🌐
 
 </div>
 
-<!-- ==================== FOOTER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:0D1117&height=120&section=footer" />
-
-<div align="center">
-
-<sub>⚡ Thanks for stopping by — let's build something great.</sub>
-
-</div>
+"I don't just write code — I craft digital experiences that users remember."
